@@ -1,11 +1,8 @@
-# Dashcore Library
+# Vpubcore Library
 
-[![Build Status](https://img.shields.io/travis/dashevo/dashcore-lib.svg?branch=master)](https://travis-ci.org/dashevo/dashcore-lib)
-[![NPM Package](https://img.shields.io/npm/v/@dashevo/dashcore-lib.svg)](https://www.npmjs.org/package/@dashevo/dashcore-lib)
+> A pure and powerful JavaScript Vpub library.
 
-> A pure and powerful JavaScript Dash library.
-
-Dash is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Dash network allows for highly resilient Dash infrastructure, and the developer community needs reliable, open-source tools to implement Dash apps and services.
+Vpub is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Dash network allows for highly resilient Dash infrastructure, and the developer community needs reliable, open-source tools to implement Dash apps and services.
 
 ## Table of Contents
 - [Install](#install)
