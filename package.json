@@ -1,5 +1,5 @@
 {
-  "name": "@dashevo/dashcore-lib",
+  "name": "@vpubevo/vpubcore-lib",
   "version": "0.15.8",
   "description": "A pure and powerful JavaScript Dash library.",
   "author": "Dash Core Group, Inc. <dev@dash.org>",
