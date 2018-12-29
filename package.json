@@ -1,6 +1,6 @@
 {
   "name": "vpubcore-lib",
-  "version": "0.15.8",
+  "version": "0.1.1",
   "description": "A pure and powerful JavaScript Dash library.",
   "author": "Vpub Core Group, Inc. <dev@vpubchain.org>",
   "main": "index.js",
