@@ -10,5 +10,5 @@ Vpub is a powerful new peer-to-peer platform for the next generation of financia
 ### NodeJS
 
 ```
-npm install vpubcore-lib
+npm install @vpubevo/vpubcore-lib
 ```
