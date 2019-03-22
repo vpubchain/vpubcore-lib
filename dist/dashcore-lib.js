@@ -32564,8 +32564,8 @@ addNetwork({
   scripthash: 0x10,
   xpubkey: 0x488b21e,    // 'xpub' (Bitcoin Default)
   xprivkey: 0x488ade4,   // 'xprv' (Bitcoin Default)
-  networkMagic: 0xbf0c6bbd,
-  port: 9999,
+  networkMagic: 0x91c4fde9,
+  port: 11771,
   dnsSeeds: [
     'dnsseed.darkcoin.io',
     'dnsseed.dashdot.io',

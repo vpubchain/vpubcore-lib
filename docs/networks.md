@@ -36,8 +36,8 @@ _.extend(livenet, {
   scripthash: 0x10,
   xpubkey: 0x488b21e,
   xprivkey: 0x488ade4,
-  networkMagic: 0xbf0c6bbd,
-  port: 9999,
+  networkMagic: 0x91c4fde9,
+  port: 11771,
 });
 
 var testnet = new Network();
