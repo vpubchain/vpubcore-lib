@@ -32561,8 +32561,8 @@ addNetwork({
   // pubkeyhash: 0x4c,
   pubkeyhash: 0x37,
   // privatekey: 0xcc,
-  privatekey: 0x37,
-  scripthash: 0x10,
+  privatekey: 0xd,
+  scripthash: 0xd4,
   xpubkey: 0x488b21e,    // 'xpub' (Bitcoin Default)
   xprivkey: 0x488ade4,   // 'xprv' (Bitcoin Default)
   networkMagic: 0x91c4fde9,
